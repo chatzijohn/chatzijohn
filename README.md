@@ -10,7 +10,7 @@
 ---
 
 ### About Me :
-I am a Full Stack Developer/Electrical Engineer Bsc. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Greece.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> / Electrical Engineer Bsc. from Greece.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :zap: In my free time, I play 🎸 and produce 🎼
