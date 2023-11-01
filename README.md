@@ -13,7 +13,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> / Electrical Engineer Bsc. <img src="https://media.giphy.com/media/jJZPzzDN3gvWC3j7ur/giphy.gif" width="30"> from Greece.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :zap: In my free time, I play 🎸 and produce 🎼
+- :zap: In my free time, I play 🎸 and try to write 🎼
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-chatzijohn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chatzijohn/)
 
