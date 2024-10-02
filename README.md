@@ -6,7 +6,12 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=chatzijohn&style=flat-square&color=blue" alt=""/>
 </div>
-
+  <style>
+    .svg-white {
+      filter: invert(100%);
+    }
+  </style>
+    
 ---
 
 ### About Me :
@@ -21,12 +26,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <style>
-    .svg-white {
-      filter: invert(100%);
-    }
-  </style>
-    
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Next" alt="Next" width="40" height="40" class="svg-white" />&nbsp;
