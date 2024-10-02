@@ -6,12 +6,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=chatzijohn&style=flat-square&color=blue" alt=""/>
 </div>
-  <style>
-    .svg-white {
-      filter: invert(100%);
-    }
-  </style>
-    
+
 ---
 
 ### About Me :
