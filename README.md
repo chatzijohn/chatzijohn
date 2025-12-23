@@ -10,8 +10,8 @@
 ---
 
 ### About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> / Electrical Engineer Bsc. <img src="https://media.giphy.com/media/jJZPzzDN3gvWC3j7ur/giphy.gif" width="30"> from Greece.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a System & Platform Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> / Electrical Engineer Bsc. <img src="https://media.giphy.com/media/jJZPzzDN3gvWC3j7ur/giphy.gif" width="30"> from Greece.
+- :telescope: I’m working as a Sytem & Platform Engineer and helping my team achieve better software scalability, performance and security, I can develop, secure and deploy a Full Stack Web App from start to finish.
 
 - :zap: In my free time, I play 🎸 and try to write 🎼
 
